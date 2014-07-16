@@ -3,7 +3,7 @@
 # This is under Creative Commons License
 #
 -->
-FERLOM IOS App Project
+FERLOM IOS PhoneGap App Project
 =============================================================
 This is project to experiment within PhoneGap Framework in IOS platform
 <br />
